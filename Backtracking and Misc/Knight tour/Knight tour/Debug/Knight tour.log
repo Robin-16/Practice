@@ -1,0 +1,22 @@
+﻿Build started 11-06-2016 17:36:35.
+     1>Project "C:\Users\hp\Documents\Visual Studio 2010\Projects\Karumanchi questions\Knight tour\Knight tour\Knight tour.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Knight tour.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Knight tour.cpp"
+         Knight tour.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hp\Documents\Visual Studio 2010\Projects\Karumanchi questions\Knight tour\Debug\Knight tour.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Knight tour.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\hp\Documents\Visual Studio 2010\Projects\Karumanchi questions\Knight tour\Debug\Knight tour.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hp\Documents\Visual Studio 2010\Projects\Karumanchi questions\Knight tour\Debug\Knight tour.lib" /MACHINE:X86 "Debug\Knight tour.obj"
+         Debug\stdafx.obj
+     1>Knight tour.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         Knight tour.vcxproj -> C:\Users\hp\Documents\Visual Studio 2010\Projects\Karumanchi questions\Knight tour\Debug\Knight tour.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\hp\Documents\Visual Studio 2010\Projects\Karumanchi questions\Knight tour\Debug\Knight tour.exe;#1" /manifest "Debug\Knight tour.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Knight tour.unsuccessfulbuild".
+         Touching "Debug\Knight tour.lastbuildstate".
+     1>Done Building Project "C:\Users\hp\Documents\Visual Studio 2010\Projects\Karumanchi questions\Knight tour\Knight tour\Knight tour.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.41

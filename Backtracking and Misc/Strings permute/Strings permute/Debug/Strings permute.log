@@ -1,0 +1,22 @@
+﻿Build started 11-04-2016 01:30:39.
+     1>Project "c:\Users\hp\documents\visual studio 2010\Projects\Strings permute\Strings permute\Strings permute.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Strings permute.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Strings permute.cpp"
+         Strings permute.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\hp\documents\visual studio 2010\Projects\Strings permute\Debug\Strings permute.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Strings permute.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\hp\documents\visual studio 2010\Projects\Strings permute\Debug\Strings permute.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\hp\documents\visual studio 2010\Projects\Strings permute\Debug\Strings permute.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\Strings permute.obj"
+     1>stdafx.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         Strings permute.vcxproj -> c:\users\hp\documents\visual studio 2010\Projects\Strings permute\Debug\Strings permute.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\hp\documents\visual studio 2010\Projects\Strings permute\Debug\Strings permute.exe;#1" /manifest "Debug\Strings permute.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Strings permute.unsuccessfulbuild".
+         Touching "Debug\Strings permute.lastbuildstate".
+     1>Done Building Project "c:\Users\hp\documents\visual studio 2010\Projects\Strings permute\Strings permute\Strings permute.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.20
